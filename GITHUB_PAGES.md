@@ -13,8 +13,10 @@
 **uploading an existing file**, перенесите туда всё содержимое папки и нажмите
 **Commit changes**.
 
-Важно: папки `app`, `components`, `pages`, `public` и `.github` должны находиться
-сразу в корне репозитория, рядом с `package.json`.
+Важно: папки `app`, `components`, `pages`, `public`, `.github` и `.openai` должны
+находиться сразу в корне репозитория, рядом с `package.json`. Папки с точкой в
+начале имени могут быть скрыты в Finder — переносите в GitHub всю распакованную
+папку целиком.
 
 ## 3. Включите GitHub Pages
 
